@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/inter-activity-communication-lib/inter-activity-communication-lib.iml" filepath="$PROJECT_DIR$/inter-activity-communication-lib/inter-activity-communication-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inter-activity-communication-parent.iml" filepath="$PROJECT_DIR$/inter-activity-communication-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inter-activity-communication-test/inter-activity-communication-test.iml" filepath="$PROJECT_DIR$/inter-activity-communication-test/inter-activity-communication-test.iml" />
+    </modules>
+  </component>
+</project>
+
